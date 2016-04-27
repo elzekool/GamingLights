@@ -2,8 +2,8 @@
 An Arduino and Python program to control lights/LEDs from a simple text file from the console.
 Made to control LED buttons on my Arcade machine based on the current emulator/program.
 
-- See [./Arduino/GamingLights/GamingLights.ino] for the Arduino program
-- See [./Python/GamingLights/README.md] for information about the Python program
+- See [Arduino/GamingLights/GamingLights.ino](Arduino/GamingLights/GamingLights.ino) for the Arduino program
+- See [Python/GamingLights/README.md](Python/GamingLights/README.md) for information about the Python program
 
 ## Configuration file format ##
     # This is an demonstration for
